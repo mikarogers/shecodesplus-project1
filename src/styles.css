@@ -1,0 +1,70 @@
+.weather-now {
+  text-transform: capitalize;
+}
+.weather-now-icon {
+  font-size: 60px;
+  text-align: center;
+  width: 100%;
+}
+.weather-now,
+.temp,
+.current-weather,
+.place,
+.current,
+.date,
+.day,
+.day-temp,
+.coded-by {
+  font-family: "Merriweather", serif;
+}
+.weather-now,
+.temp {
+  font-size: 20px;
+  text-align: center;
+  font-weight: 500;
+  margin-top: 20px;
+}
+.current-weather {
+  font-size: 12px;
+  margin-bottom: 3px;
+}
+.place {
+  font-size: 25px;
+}
+.date {
+  font-size: 15px;
+  text-align: right;
+  font-weight: 600;
+}
+.high,
+.low,
+.rain-percentage {
+  margin: 0 18px 10px 30px;
+  font-size: 22px;
+}
+.wind {
+  font-size: 22px;
+  margin: 0 12px 10px 30px;
+}
+.current {
+  font-size: 15px;
+}
+.day {
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+.day-icon {
+  font-size: 30px;
+  text-align: center;
+  width: 100%;
+}
+.day-temp {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+}
+.coded-by {
+  font-size: 12px;
+  text-align: center;
+}
